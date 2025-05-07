@@ -1,0 +1,13 @@
+
+  .sort-option {
+    background-color: #979595; /* Dark button background */
+    color: #fff; /* Light text color */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    outline: none; /* Remove focus outline */
+  }
+  
+  .sort-option:hover {
+    background-color: #555; /* Darker background on hover */
+  }
+  
